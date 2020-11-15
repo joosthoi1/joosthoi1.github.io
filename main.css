@@ -1,0 +1,22 @@
+.dark {
+    background: #3cb6ce;
+    color: #ffffff;
+}
+.title {
+    color: #c1ffad;
+    margin-top: 0;
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+.description {
+    margin-top: 5px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.wrapper {
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+}
